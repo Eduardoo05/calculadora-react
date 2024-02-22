@@ -1,12 +1,13 @@
 
 import './App.css'
+import Calculator from './components/calculator'
 
 function App() {
 
 
   return (
     <>
-      <div>eduardo</div>
+      <Calculator />
     </>
   )
 }
