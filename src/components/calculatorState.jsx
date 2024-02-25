@@ -101,7 +101,7 @@ export default function CalculatorState({children}){
     }
 
     function deleteNumber(){
-        const index = currentValue.toString().index('.');
+        const index = currentValue.toString().indexOf('.');
         if(index > 0){
             //numero decimal
             const numberOfDecimals = currentValue.toString().slice(index + 1).length;

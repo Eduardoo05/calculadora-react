@@ -14,7 +14,7 @@ export default function CalculatorScreen(){
             </div>
               <div className="calculatorCurrentValue">
                 {calculator.currentValue}
-                {calculator.isDecimal ? '.' : ''}     l
+                {calculator.isDecimal ? '.' : ''}     
               </div>
           </div>
         </>
