@@ -1,0 +1,11 @@
+parseInt()
+toString()
+point
+parseFloat()
+switch case '': break; default
+indexOf()
+slice()
+Math 
+floor
+toFixed()
+
